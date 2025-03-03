@@ -1,0 +1,8 @@
+.venv
+
+./glassdoor-dashboard/node_modules/
+
+./glassdoor-scraper/node_modules/
+
+
+./Glassdoor_reviews/node_modules/
